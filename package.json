@@ -1,0 +1,24 @@
+{
+  "name": "actividad2-github-roberto-merida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lic-Roberto/actividad2-github-Roberto-Merida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lic-Roberto/actividad2-github-Roberto-Merida/issues"
+  },
+  "homepage": "https://github.com/Lic-Roberto/actividad2-github-Roberto-Merida#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
