@@ -7,9 +7,8 @@ app.get('/', (req, res) => {
 
 app.get('/usuario', (req, res) => {
   const usuario = {
-    id: 1,
-    nombre: 'Juan',
-    rol: 'Administrador'
+    grupo: "2-1",
+    nombre: 'Roberto Jesus Merida Cazares'
   };
 
   res.json(usuario);
